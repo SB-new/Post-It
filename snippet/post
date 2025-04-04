@@ -1,0 +1,21 @@
+<div class="container">
+    <article class="media content-section mb-5">
+        <div class="media-body border p-4 rounded shadow-sm">
+            <div class="article-metadata d-flex justify-content-between align-items-center mb-3">
+                <h1 class="h2 text-uppercase font-weight-bold mb-0 text-dark">Article Title</h1>
+                <h5 class="h5 text-muted mb-0">Date/Author</h5>
+            </div>
+            <hr class="mt-0">
+            <h3 class="h4 font-weight-bold mb-3">Subheading</h3>
+            <p class="article-content lead mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula.</p>
+            <div class="d-flex justify-content-end">
+                <button class="btn btn-outline-primary mr-2">
+                    <i class="fas fa-edit"></i> Edit
+                </button>
+                <button class="btn btn-outline-danger">
+                    <i class="fas fa-trash-alt"></i> Delete
+                </button>
+            </div>
+        </div>
+    </article>
+</div>
